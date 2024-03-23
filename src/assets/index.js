@@ -26,9 +26,19 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import school from "./educate/school.png";
+import hsc from "./educate/hsc.png";
+import college from "./educate/college.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import chat from "./chat-app.jpg";
+import shirt from "./t-shirt.png"
+
+import bootcamp from "./bootcamp-2023.jpg";
+import responsive from "./Responsive-Web-Design.png";
+import career from "./career-edge.png"
 
 export {
   logo,
@@ -56,7 +66,15 @@ export {
   shopify,
   starbucks,
   tesla,
+  school,
+  hsc,
+  college,
   carrent,
   jobit,
   tripguide,
+  chat,
+  shirt,
+  bootcamp,
+  responsive,
+  career
 };
